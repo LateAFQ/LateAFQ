@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![изображение](https://github.com/LateAFQ/LateAFQ/assets/142036795/f7ff9940-a96f-4ffe-bc28-50716271d955)
+
 <!--
 **LateAFQ/LateAFQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
