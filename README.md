@@ -1,3 +1,5 @@
+![изображение](https://github.com/LateAFQ/LateAFQ/assets/142036795/2f6c68b6-1595-4388-b724-7d515a901175)
+
 
 
 Мой стек:
