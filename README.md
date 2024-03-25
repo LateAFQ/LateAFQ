@@ -1,4 +1,7 @@
 
+https://media.giphy.com/media/tbyjrIX9NlZ8k/giphy.gif?cid=790b7611zelop5hes2vmfwk0o9yuv883sy2ch40fns1qyjzt&ep=v1_gifs_search&rid=giphy.gif&ct=g
+
+
 Мой стек:
 
 
