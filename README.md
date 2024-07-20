@@ -3,7 +3,6 @@
 </div>
 
 
-Мой стек:
 
 
 ![изображение](https://github.com/LateAFQ/LateAFQ/assets/142036795/f7ff9940-a96f-4ffe-bc28-50716271d955) ![изображение](https://github.com/LateAFQ/LateAFQ/assets/142036795/007e9a26-efb1-4aab-b43d-2d055c8bf626)
