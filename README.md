@@ -10,7 +10,7 @@
 ![изображение](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css)
 ![изображение](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi)
 ![изображение](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django)
-![изображение](https://img.shields.io/badge/c-090909?style=for-the-badge&logo=c)
+![изображение](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=c)
 
 
 ![изображение](https://img.shields.io/badge/Obsidian-090909?style=for-the-badge&logo=obsidian)
