@@ -28,6 +28,7 @@
 
 ![изображение](https://img.shields.io/badge/aiohttp-090909?style=for-the-badge&logo=aiohttp)
 ![изображение](https://img.shields.io/badge/aiogram-090909?style=for-the-badge&logo=aiogram)
+![изображение](https://img.shields.io/badge/docker-compose-090909?style=for-the-badge&logo=docker-compose)
 
 
 
