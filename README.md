@@ -10,12 +10,13 @@
 ![изображение](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css)
 ![изображение](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi)
 ![изображение](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django)
-![изображение](https://img.shields.io/badge/vscode-090909?style=for-the-badge&logo=vscode)
+![изображение](https://img.shields.io/badge/c-090909?style=for-the-badge&logo=c)
 
 
 ![изображение](https://img.shields.io/badge/Obsidian-090909?style=for-the-badge&logo=obsidian)
 ![изображение](https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux)
 ![изображение](https://img.shields.io/badge/jinja-090909?style=for-the-badge&logo=jinja)
+![изображение](https://img.shields.io/badge/vscode-090909?style=for-the-badge&logo=vscode)
 
 ![изображение](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![изображение](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
@@ -26,6 +27,7 @@
 ![изображение](https://img.shields.io/badge/aiohttp-090909?style=for-the-badge&logo=aiohttp)
 ![изображение](https://img.shields.io/badge/aiogram-090909?style=for-the-badge&logo=aiogram)
 ![изображение](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis)
+![изображение](https://img.shields.io/badge/pydantic-090909?style=for-the-badge&logo=pydantic)
 
 
 
