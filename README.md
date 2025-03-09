@@ -15,6 +15,7 @@
 
 ![изображение](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![изображение](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis)
+![изображение](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 
 
 
