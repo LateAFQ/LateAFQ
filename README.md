@@ -17,7 +17,7 @@
 ![изображение](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite)
 ![изображение](https://img.shields.io/badge/Obsidian-090909?style=for-the-badge&logo=obsidian)
 ![изображение](https://img.shields.io/badge/linux-090909?style=for-the-badge&logo=linux)
-![изображение](https://github.com/LateAFQ/LateAFQ/assets/142036795/84c813dd-937d-4b05-a388-1355a8ecbfc6) 
+![изображение](https://img.shields.io/badge/jinja-090909?style=for-the-badge&logo=jinja)
 ![изображение](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi)
 
 ![изображение](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)
