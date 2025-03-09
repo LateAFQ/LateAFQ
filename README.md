@@ -5,8 +5,11 @@
 
 
 
-![изображение](https://github.com/LateAFQ/LateAFQ/assets/142036795/f7ff9940-a96f-4ffe-bc28-50716271d955) ![изображение](https://github.com/LateAFQ/LateAFQ/assets/142036795/007e9a26-efb1-4aab-b43d-2d055c8bf626)
-![изображение](https://github.com/LateAFQ/LateAFQ/assets/142036795/dc5c8cbb-430f-4d9b-bc50-5bc0894aa463)
+![изображение](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python)
+![изображение](https://img.shields.io/badge/html-090909?style=for-the-badge&logo=html)
+![изображение](https://img.shields.io/badge/css-090909?style=for-the-badge&logo=css)
+![изображение](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=fastapi)
+![изображение](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django)
 ![изображение](https://img.shields.io/badge/vscode-090909?style=for-the-badge&logo=vscode)
 
 
