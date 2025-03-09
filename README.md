@@ -19,7 +19,8 @@
 ![изображение](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis)
 ![изображение](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 ![изображение](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=nginx)
-![изображение](https://img.shields.io/badge/sql-090909?style=for-the-badge&logo=sql)aiohttp
+![изображение](https://img.shields.io/badge/sql-090909?style=for-the-badge&logo=sql)
+
 ![изображение](https://img.shields.io/badge/aiohttp-090909?style=for-the-badge&logo=aiohttp)
 
 
