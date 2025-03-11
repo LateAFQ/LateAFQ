@@ -29,6 +29,7 @@
 ![изображение](https://img.shields.io/badge/aiogram-090909?style=for-the-badge&logo=aiogram)
 ![изображение](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis)
 ![изображение](https://img.shields.io/badge/pydantic-090909?style=for-the-badge&logo=pydantic)
+![изображение](https://img.shields.io/badge/pytest-090909?style=for-the-badge&logo=pytest)
 
 
 
