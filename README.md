@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ztpMY1t5VYWlO/giphy.gif?cid=790b7611lybmbypbfycaan0fdywtm7c9ajgg5ggjlkqu4jiq&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-</div>
-
 
 
 
